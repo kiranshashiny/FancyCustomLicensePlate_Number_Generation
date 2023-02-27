@@ -1,7 +1,17 @@
 # FancyCustomLicensePlate_Number_Generation
 
+Code to generate license plates that end with a '9' or multiple of '9's.
+
+
+Overall logic is to subtract 48 from the character to get the integer value ( or decimal )
+
+![image](https://user-images.githubusercontent.com/14288989/221527765-1b4f04d0-b7e6-4bba-ab04-6237932ae38c.png)
+
 
 ```
+
+#include <stdio.h>
+
 #include <string.h>
 
 int main () {
