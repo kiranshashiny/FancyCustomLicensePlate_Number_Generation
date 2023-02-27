@@ -46,6 +46,4 @@ int main () {
 
 The output :
 
-```
-
 ![image](https://user-images.githubusercontent.com/14288989/221527327-c48deec3-c9a1-4749-8309-eea1e4f337d4.png)
