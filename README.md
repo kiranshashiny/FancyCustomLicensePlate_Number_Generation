@@ -8,6 +8,8 @@ Overall logic is to subtract 48 from the character to get the integer value ( or
 ![image](https://user-images.githubusercontent.com/14288989/221527765-1b4f04d0-b7e6-4bba-ab04-6237932ae38c.png)
 
 
+![image](https://user-images.githubusercontent.com/14288989/221528256-3a6fec17-adba-480f-bf82-cef6a66a1cce.png)
+
 ```
 
 #include <stdio.h>
